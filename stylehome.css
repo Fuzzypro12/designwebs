@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family:sans-serif;
     background-color: #f4f4f479;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.337)50%,rgba(0, 0, 0, 0.213)40%), url(image/bg.png);
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.337)50%,rgba(0, 0, 0, 0.213)40%), url(bg.png);
     background-repeat: no-repeat;
     background-position-y: auto;
     background-position-x: auto;
