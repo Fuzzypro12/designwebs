@@ -18,7 +18,7 @@ body {
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
     position: sticky;
-    
+    opacity: 10px;
   }
   
   .topnav a {
@@ -34,7 +34,7 @@ body {
   }
   
   .topnav a:hover {
-    background-color: #919191a5;
+    background-color: #9191915d;
     color: #ffffff;
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
@@ -122,14 +122,14 @@ body {
 .img13{
   width: 200px;
   padding: 10px;
-  border-radius: 50px;
+  border-radius: px;
 }
 
 .img14{
   width: 300px;
   padding: 10px;
   top:40px;
-  border-radius: 50px;
+  border-radius: 47px;
 }
 
 .img14p{
@@ -144,7 +144,7 @@ body {
   width: 200px;
   padding: 10px;
   top:40px;
-  border-radius: 50px;
+  border-radius: 47px;
 }
 
 .img14:hover{
@@ -153,6 +153,7 @@ body {
   top:40px;
   border-radius: 30px;
   transition: ease 0.3s;
+  background-color: #a3faff7c;
 }
 
 .img15:hover{
@@ -161,6 +162,7 @@ body {
   top:40px;
   border-radius: 30px;
   transition: ease 0.3s;
+  background-color: #a3faff7c;
 }
 
 .img13:hover{
@@ -169,6 +171,7 @@ body {
   top:40px;
   border-radius: 30px;
   transition: ease 0.3s;
+  background-color: #a3faff7c;
 }
 
 .bnp1{
@@ -236,3 +239,4 @@ body {
 .abc1{
   color: white;
 }
+
